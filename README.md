@@ -38,3 +38,6 @@ lib/
 │   └── layouts/          # Struktur kerangka
 └── routes/               # Routing (pakai auto_route atau manual)
 ```
+
+## Wireframe Sementara
+<a href="https://whimsical.com/riseon-QDe6tVTpxBQP1p6D9xFt3s" target="_blank">Cek Disini</a>
