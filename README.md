@@ -1,5 +1,10 @@
 # Riseon
 
+<p align="center">
+  <img src="./riseon-logo.png" width="150" />
+</p>
+
+
 Riseon adalah aplikasi investasi cerdas berbasis teknologi yang memungkinkan kamu mengelola berbagai jenis aset—mulai dari efek, komoditas, crypto, hingga forex—semua dalam satu platform. Dirancang untuk generasi investor modern, Riseon hadir dengan antarmuka yang intuitif, analitik yang kuat, serta fitur Shariah Mode untuk kamu yang ingin berinvestasi secara halal dan sesuai prinsip syariah Islam.
 
 Riseon is a smart, technology-driven investment app that empowers you to manage multiple asset classes—including stocks/securities, commodities, crypto, and forex—all in one seamless platform.
