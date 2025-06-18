@@ -5,9 +5,9 @@
 </p>
 
 
-Riseon adalah aplikasi investasi cerdas berbasis teknologi yang memungkinkan kamu mengelola berbagai jenis aset—mulai dari efek, komoditas, crypto, hingga forex—semua dalam satu platform. Dirancang untuk generasi investor modern, Riseon hadir dengan antarmuka yang intuitif, analitik yang kuat, serta fitur Shariah Mode untuk kamu yang ingin berinvestasi secara halal dan sesuai prinsip syariah Islam.
+Riseon adalah aplikasi investasi cerdas berbasis teknologi yang memungkinkan kamu mengelola berbagai jenis aset—mulai dari efek, komoditas, dan crypto dalam satu platform. Dirancang untuk generasi investor modern, Riseon hadir dengan antarmuka yang intuitif, analitik yang kuat, serta fitur Shariah Mode untuk kamu yang ingin berinvestasi secara halal dan sesuai prinsip syariah Islam.
 
-Riseon is a smart, technology-driven investment app that empowers you to manage multiple asset classes—including stocks/securities, commodities, crypto, and forex—all in one seamless platform.
+Riseon is a smart, technology-driven investment app that empowers you to manage multiple asset classes—including stocks/securities, commodities, and crypto in one seamless platform.
 Designed for the modern investor, Riseon offers an intuitive interface, powerful analytics, and a dedicated Shariah Mode for those who seek to invest in line with Islamic principles.
 
 ## Clean Architecture Pattern
